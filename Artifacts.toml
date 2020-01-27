@@ -1,0 +1,53 @@
+[[NNPACK]]
+arch = "i686"
+git-tree-sha1 = "f47fe5f9a8bd69872519e8550c763877546ccb20"
+libc = "glibc"
+os = "linux"
+
+    [[NNPACK.download]]
+    sha256 = "1d9831a0db5436250adf786c3eabf987daedd8b0457bac92701e3d23cb07e401"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.i686-linux-gnu.tar.gz"
+[[NNPACK]]
+arch = "i686"
+git-tree-sha1 = "17156edd84f295b136cfb6eae7946411126abb2a"
+libc = "musl"
+os = "linux"
+
+    [[NNPACK.download]]
+    sha256 = "8b716586e491f590300f8fae154c946d8675f5a8827675e3b4c82ddad4d73ec7"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.i686-linux-musl.tar.gz"
+[[NNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "12caa0f9718e9ac59bc3ac810ea21a0d648fcadb"
+os = "macos"
+
+    [[NNPACK.download]]
+    sha256 = "6cb407fba290a472acba311855392ef4e39f1bf797b1be5594e4604e5d15a20c"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.x86_64-apple-darwin14.tar.gz"
+[[NNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "e792024d572aac7c14df9dbc742f4234ab8c8044"
+libc = "glibc"
+os = "linux"
+
+    [[NNPACK.download]]
+    sha256 = "70f696f7d5bac142d560cd85194a39e16ce61702e097b9ba75a2f0b99cf4adab"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.x86_64-linux-gnu.tar.gz"
+[[NNPACK]]
+arch = "aarch64"
+git-tree-sha1 = "708602b32fc1f7bd4ca4f9195c015232a6e240c8"
+libc = "glibc"
+os = "linux"
+
+    [[NNPACK.download]]
+    sha256 = "b88565ef8e87effaba8e922781c942007f6dcf628e86ef8059a7cd7a114b75a6"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.aarch64-linux-gnu.tar.gz"
+[[NNPACK]]
+arch = "x86_64"
+git-tree-sha1 = "d5d2aa29317f697be2d10d4e0a412e1636479296"
+libc = "musl"
+os = "linux"
+
+    [[NNPACK.download]]
+    sha256 = "8f0ee6b6e549ce759eeb21da6eb68a6c989a9739eb2636e61002a835e8d88e92"
+    url = "https://github.com/JuliaBinaryWrappers/NNPACK_jll.jl/releases/download/NNPACK-v2018.6.22+0/NNPACK.v2018.6.22.x86_64-linux-musl.tar.gz"
